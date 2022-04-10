@@ -11,8 +11,6 @@ A Python-script to turn my F-Keys into a "Soundboard"
 - [ ] Directed by Robert B. Weide
 - [ ] Tadaaa (Peter Grifin)
 - [ ] Ba Dum Tss
-- [ ] 
-- [ ] 
 
 ## Maybe-Sounds:
 - [ ] Dial up Internet
