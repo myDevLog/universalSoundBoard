@@ -1,5 +1,6 @@
 # universalSoundBoard
 A Python-script to turn my F-Keys into a "Soundboard"
+The Goal is to get a bit more familiar with Python
 
 ## Sounds:
 - [ ] Crickets Silence
