@@ -12,6 +12,7 @@ The Goal is to get a bit more familiar with Python
 - [ ] Directed by Robert B. Weide
 - [ ] Tadaaa (Peter Grifin)
 - [ ] Ba Dum Tss
+- [ ] Quack
 
 ## Maybe-Sounds:
 - [ ] Dial up Internet
