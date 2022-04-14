@@ -12,7 +12,9 @@ The Goal is to get a bit more familiar with Python
 - [ ] Directed by Robert B. Weide
 - [ ] Tadaaa (Peter Grifin)
 - [ ] Ba Dum Tss
-- [ ] Quack
+- [ ] NO GOD! PLEASE NO!!! NOOOOOOOOOO (The Office)
+- [ ] Dark Souls 3 - Climax of "Vordt of the Boreal Valley"
+- [ ] What?!? ... What the Fuck?!?
 
 ## Maybe-Sounds:
 - [ ] Dial up Internet
