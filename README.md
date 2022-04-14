@@ -12,7 +12,7 @@ The Goal is to get a bit more familiar with Python
 - [ ] Directed by Robert B. Weide
 - [ ] Tadaaa (Peter Grifin)
 - [ ] Ba Dum Tss
-- [ ] NO GOD! PLEASE NO!!! NOOOOOOOOOO (The Office)
+- [ ] Drumroll
 - [ ] Dark Souls 3 - Climax of "Vordt of the Boreal Valley"
 - [ ] What?!? ... What the Fuck?!?
 
@@ -21,4 +21,4 @@ The Goal is to get a bit more familiar with Python
 - [ ] Its over 9000
 - [ ] Nani
 - [ ] A few moments later
-- [ ] Drumroll
+- [ ] NO GOD! PLEASE NO!!! NOOOOOOOOOO (The Office)
