@@ -23,7 +23,6 @@ The Goal is to get a bit more familiar with Python
 - We'll be right back
 - FBI Open Up
 - Spanish Flea (Herb Albert)
-- Curb your Enthusiasm
 - GTA 5 wasted
 - Willhelm Scream
 - Goat Scream
