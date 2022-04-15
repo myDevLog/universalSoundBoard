@@ -29,3 +29,5 @@ The Goal is to get a bit more familiar with Python
 - Goat Scream
 - Are you Serious?
 - Sad emotional Piano
+- It was with me, Dio
+- ... joins the Battle
