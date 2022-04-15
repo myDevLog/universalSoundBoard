@@ -5,7 +5,7 @@ The Goal is to get a bit more familiar with Python
 ## Sound-Ideas:
 - Crickets Silence
 - Buuuuuuuh
-- Cheering Crowd (3 Stages when pressign key in rapid succession)
+- Cheering Crowd
 - Laughing Crowd
 - James May saying Wooow
 - OK
