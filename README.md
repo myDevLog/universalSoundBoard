@@ -1,8 +1,8 @@
 # universalSoundBoard
-A Python-script to turn my F-Keys into a "Soundboard"
-The Goal is to get a bit more familiar with Python
+A "Sound-Board" Python-script to annoy my Professors during Class.
+The Goal is to get a bit more familiar with Python.
 
-## Sound-Ideas:
+## Sound-Ideas (just a few):
 - Crickets Silence
 - Buuuuuuuh
 - Cheering Crowd
@@ -30,3 +30,14 @@ The Goal is to get a bit more familiar with Python
 - Sad emotional Piano
 - It was with me, Dio
 - ... joins the Battle
+- Illuminati / X-Files
+- to be continued ...
+- Deja Vu
+- It's John Cena
+- Jojo's Bizarre Adventure: Golden Wind at the drop
+- America, fuck yeah!
+- Attack on Titan Theme
+- Megalovania
+- Dun Dun Duuun
+- Dramatic Chipmunk
+- Piano Man - Sad harmonica
