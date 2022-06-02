@@ -1,0 +1,38 @@
+# Sound-Ideas (just a few):
+- Crickets Silence
+- Buuuuuuuh
+- Cheering Crowd
+- Laughing Crowd
+- James May saying Wooow
+- OK
+- Directed by Robert B. Weide
+- Tadaaa (Peter Grifin)
+- Ba Dum Tss
+- Drumroll
+- Dark Souls 3 - Climax of "Vordt of the Boreal Valley"
+- What?!? ... What the Fuck?!?
+- Dial up Internet
+- Its over 9000
+- Nani
+- A few moments later
+- NO GOD! PLEASE NO!!! NOOOOOOOOOO
+- We'll be right back
+- FBI Open Up
+- Spanish Flea (Herb Albert)
+- GTA 5 wasted
+- Are you Serious?
+- Sad emotional Piano
+- It was with me, Dio
+- ... joins the Battle
+- Illuminati / X-Files
+- to be continued ...
+- Deja Vu
+- It's John Cena
+- Attack on Titan Theme
+- Megalovania
+- Dun Dun Duuun
+- Dramatic Chipmunk
+- Piano Man - Sad harmonica
+- Windows Error
+- Sad Violin
+- Now thats a lot of Damage!
