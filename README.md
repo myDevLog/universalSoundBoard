@@ -2,6 +2,8 @@
 A "Sound-Board" Python-script to annoy my Professors during Lecture.<br>
 One of the Goals of this Project is to get a bit more familiar with Python, since i need to learn about this language for a Module.
 
+## Features:
+
 ## Requirements (WIP):
 
 ## "Installing" the Program:
