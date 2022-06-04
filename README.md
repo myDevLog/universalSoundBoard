@@ -3,6 +3,10 @@ A "Sound-Board" Python-script to annoy my Professors during Lecture.<br>
 One of the Goals of this Project is to get a bit more familiar with Python, since i need to learn about this language for a Module.
 
 ## Features:
+- Automatically adjusts the [volume](#command-line-arguments) to play the sound, regardless of your current volume (currently only on Linux)
+- Window is always on top of other windows
+- One Button can play different sounds
+- Window can [align](#command-line-arguments) itself on the right, left or bottom
 
 ## Requirements (WIP):
 
