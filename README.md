@@ -8,7 +8,10 @@ One of the Goals of this Project is to get a bit more familiar with Python, sinc
 - One Button can play different sounds
 - Window can [align](#command-line-arguments) itself on the right, left or bottom
 
-## Requirements (WIP):
+## Library Requirements:
+- tkinter
+- screeninfo
+- playsound
 
 ## "Installing" the Program:
 1. Download the [soundBoard Directory](./soundBoard)
