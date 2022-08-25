@@ -27,5 +27,11 @@ One of the Goals of this Project is to get a bit more familiar with Python, sinc
 |-t | --text | The name of the Button from name of the directory<br> gets displayed beneath the Button | 0 == Don't display Text<br> 1 == Display Text|
 |-a | --align | Centers the window to the right, left or to the Bottom of the screen | "right", "left", "bottom" (without qotation-marks) |
 
-## Adding Sound-Buttons (WIP):
+## Adding Sound-Buttons:
+1. Create a Folder with a Name that matches the sound
+2. Put Images for the pressed and unpressed Button as `pressedButton.png` and `unpressedButton.png` respectively into the created folder
+3. Put at least one Sound in an .mp3 or .wav format into the created folder, when multiple Soundfiles are present it randomizes the sound
+4. Drag the created Folder into the `soundBoard` Folder
+5. Repeat the previous Steps for every sound-button you want to add
+
 [Here are a few Ideas for Buttons](./SOUND_IDEAS.md)
