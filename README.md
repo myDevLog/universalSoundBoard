@@ -17,7 +17,7 @@ One of the Goals of this Project is to get a bit more familiar with Python, sinc
 1. Download the [soundBoard Directory](./soundBoard)
 2. Open the Terminal
 3. Move into the downloaded soundBoard-Directory
-4. Translate the File mySoundBoard.py using python. Here you can use [Command-Line Arguments](#command-line-arguments)
+4. Translate and Execute the Program via `python mySoundBoard.py [Argument] [Parameter]`
 
 ## Command-Line Arguments:
 |Short Argument|Long Argument|Effect|Value-Range|
