@@ -9,7 +9,7 @@ One of the Goals of this Project is to get a bit more familiar with Python, sinc
 - Window can [align](#command-line-arguments) itself on the right, left or bottom
 
 ## Library Requirements:
-- tkinter
+- tkinter (through ```apt-get install python-tk``` or ```apt-get install python3-tk```)
 - screeninfo
 - playsound
 
